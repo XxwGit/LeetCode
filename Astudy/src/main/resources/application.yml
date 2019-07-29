@@ -1,0 +1,13 @@
+management:
+  server:
+    servlet:
+      context-path: "/management"
+    port: 8088
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+      base-path: "/monitor"
+  endpoint:
+    shutdown:
+      enabled: true

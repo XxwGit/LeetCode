@@ -1,0 +1,5 @@
+package com.agree.Astudy.controller;
+
+public class HelloController {
+
+}

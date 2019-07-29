@@ -1,0 +1,8 @@
+package com.agree.Astudy.controller;
+
+public class HelloController {
+	@RequestMapping("/hello")
+    public String index() {
+        return "Hello World";
+    }
+}

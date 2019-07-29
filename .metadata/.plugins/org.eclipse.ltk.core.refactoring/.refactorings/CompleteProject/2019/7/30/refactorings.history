@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;CompleteProject&apos;&#x0D;&#x0A;- Original project: &apos;CompleteProject&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     生成token.bcpt&#x0D;&#x0A;     see.json&#x0D;&#x0A;     token.xml" description="Delete elements" element1="生成token.bcpt" element2="see.json" element3="token.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1563760978450" subPackages="false" version="1.0"/>
+</session>
